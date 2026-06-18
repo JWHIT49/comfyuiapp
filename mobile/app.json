@@ -4,13 +4,7 @@
     "slug": "comfyui-image-edit",
     "version": "1.0.0",
     "orientation": "portrait",
-    "icon": "./assets/icon.png",
     "userInterfaceStyle": "automatic",
-    "splash": {
-      "image": "./assets/splash.png",
-      "resizeMode": "contain",
-      "backgroundColor": "#0b1020"
-    },
     "ios": {
       "supportsTablet": true,
       "bundleIdentifier": "com.jwhit49.comfyuiimageedit",
@@ -20,11 +14,7 @@
       }
     },
     "android": {
-      "package": "com.jwhit49.comfyuiimageedit",
-      "adaptiveIcon": {
-        "foregroundImage": "./assets/adaptive-icon.png",
-        "backgroundColor": "#0b1020"
-      }
+      "package": "com.jwhit49.comfyuiimageedit"
     },
     "plugins": [
       "expo-image-picker"

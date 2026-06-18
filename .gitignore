@@ -31,3 +31,5 @@ mobile/android/
 # OS / editor
 .DS_Store
 Thumbs.db
+
+expo-qr.png

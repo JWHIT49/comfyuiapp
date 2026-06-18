@@ -1,0 +1,33 @@
+# Python / backend
+backend/.venv/
+.venv/
+__pycache__/
+*.pyc
+backend/.env
+backend/uploads/
+backend/outputs/
+
+# Node / Expo mobile app
+mobile/node_modules/
+node_modules/
+mobile/.expo/
+.expo/
+dist/
+web-build/
+*.log
+npm-debug.*
+yarn-debug.*
+yarn-error.*
+
+# Native build outputs
+mobile/ios/
+mobile/android/
+
+# Environment / secrets
+.env
+.env.local
+*.env
+
+# OS / editor
+.DS_Store
+Thumbs.db
